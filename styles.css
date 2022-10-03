@@ -1,0 +1,26 @@
+h1 {
+color: rgb(1, 36, 100);
+font-family: Cursive;
+text-align: center
+}
+
+.hobbies {
+    color: rgb(5, 39, 70);
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.border {
+    border: 10px solid rgb(3, 43, 61);
+    border-radius: 25px;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
